@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Практика\ClassLibrary5\ClassLibrary5\bin\Debug\netstandard2.0\ClassLibrary5.deps.json
+C:\Users\User\Desktop\Практика\ClassLibrary5\ClassLibrary5\bin\Debug\netstandard2.0\ClassLibrary5.dll
+C:\Users\User\Desktop\Практика\ClassLibrary5\ClassLibrary5\bin\Debug\netstandard2.0\ClassLibrary5.pdb
+C:\Users\User\Desktop\Практика\ClassLibrary5\ClassLibrary5\obj\Debug\netstandard2.0\ClassLibrary5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Практика\ClassLibrary5\ClassLibrary5\obj\Debug\netstandard2.0\ClassLibrary5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Практика\ClassLibrary5\ClassLibrary5\obj\Debug\netstandard2.0\ClassLibrary5.AssemblyInfo.cs
+C:\Users\User\Desktop\Практика\ClassLibrary5\ClassLibrary5\obj\Debug\netstandard2.0\ClassLibrary5.dll
+C:\Users\User\Desktop\Практика\ClassLibrary5\ClassLibrary5\obj\Debug\netstandard2.0\ClassLibrary5.pdb
